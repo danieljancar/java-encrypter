@@ -1,6 +1,14 @@
-// Compile: javac src/main/java/dev/danieljancar/App.java
-// Run: java -cp src/main/java dev.danieljancar.App <mode> <args>
-// Example Key: puXNg6ReJpwi4FeA (16 characters)
+/**
+ * Ransomware Encrypter
+ *
+ * A simple ransomware encrypter written in Java.
+ * Licensed under the MIT License and provided as-is, intended for educational purposes only.
+ *
+ * Usage:
+ * - Compile: javac src/main/java/dev/danieljancar/App.java
+ * - Run: java -cp src/main/java dev.danieljancar.App <mode> <args>
+ * - Example Key: puXNg6ReJpwi4FeA (16 characters)
+ */
 
 package dev.danieljancar;
 
