@@ -1,9 +1,7 @@
 /**
  * Ransomware Encrypter
- *
  * A simple ransomware encrypter written in Java.
  * Licensed under the MIT License and provided as-is, intended for educational purposes only.
- *
  * Usage:
  * - Compile: javac src/main/java/dev/danieljancar/App.java
  * - Run: java -cp src/main/java dev.danieljancar.App <mode> <args>
